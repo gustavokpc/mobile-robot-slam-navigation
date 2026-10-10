@@ -2,6 +2,7 @@
 /docs
 __pycache__
 *.profile
+*.prof
 *.calltree
 place_bot.egg-info
 
@@ -59,3 +60,8 @@ MANIFEST
 .venv*/
 .conda*/
 .python-version
+
+# Runtime artifacts from the navigation and bonus experiments
+rob201.avi
+*.p
+TP_bonus_rob201/gym-multigrid/out/
